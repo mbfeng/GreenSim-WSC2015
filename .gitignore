@@ -1,0 +1,9 @@
+# MATLAB, editor and OS files
+*.asv
+*.m~
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+# parts of reruns (the combined estimates.csv.gz are kept)
+results/*/parts/

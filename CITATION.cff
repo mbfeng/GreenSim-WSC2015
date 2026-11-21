@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below (preferred-citation)."
+title: "GreenSim-WSC2015: code for Green Simulation Designs for Repeated Experiments"
+type: software
+authors:
+  - given-names: Mingbin
+    family-names: Feng
+  - given-names: Jeremy
+    family-names: Staum
+version: 1.0.0
+date-released: "2026-11-21"
+license: MIT
+repository-code: "https://github.com/mbfeng/GreenSim-WSC2015"
+preferred-citation:
+  type: conference-paper
+  title: "Green simulation designs for repeated experiments"
+  authors:
+    - given-names: Mingbin
+      family-names: Feng
+    - given-names: Jeremy
+      family-names: Staum
+  collection-title: "Proceedings of the 2015 Winter Simulation Conference"
+  start: 403
+  end: 413
+  year: 2015
+  publisher:
+    name: "IEEE"
+  doi: "10.1109/WSC.2015.7408182"
