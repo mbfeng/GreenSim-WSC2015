@@ -1,5 +1,7 @@
 # Green Simulation Designs for Repeated Experiments — code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24431303.svg)](https://doi.org/10.5281/zenodo.24431303)
+
 Code that reproduces the figures of
 
 > Feng, M., & Staum, J. (2015). Green simulation designs for repeated experiments. In

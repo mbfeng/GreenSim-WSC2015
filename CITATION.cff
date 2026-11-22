@@ -8,8 +8,9 @@ authors:
   - given-names: Jeremy
     family-names: Staum
 version: 1.0.0
-date-released: "2026-11-21"
+date-released: "2026-11-22"
 license: MIT
+doi: "10.5281/zenodo.24431303"
 repository-code: "https://github.com/mbfeng/GreenSim-WSC2015"
 preferred-citation:
   type: conference-paper
